@@ -1,0 +1,7 @@
+torch
+torchaudio
+numpy
+librosa
+soundfile
+num2words
+openai-whisper
